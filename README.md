@@ -11,4 +11,5 @@ Ce premier projet de la formation Développeur frontend de OpenClassrooms repose
 * Implémenter une interface responsive adaptée à différentes devices
 * Utiliser un système de gestion de versions pour le suivi du projet et son hébergement
 
-* Live Site URL: https://jdiabi.github.io/booki/
+
+Live Site URL: https://jdiabi.github.io/booki/
